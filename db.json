@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "createdAt": "2022-01-14T11:14:02.843Z",
+      "name": "Sản phẩm A",
+      "img": "http://placeimg.com/640/480/technics",
+      "desc": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "id": "14",
+      "price": "100"
+    },
+    {
+      "createdAt": "2022-01-15T00:11:58.958Z",
+      "name": "Sản phẩm B",
+      "img": "http://placeimg.com/640/480/technics",
+      "desc": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "id": "15",
+      "price": "200"
+    },
+    {
+      "name": "nhóm 5",
+      "img": "1111111111",
+      "price": "1111111111",
+      "desc": "11111111111",
+      "id": "U-ktwkQ"
+    },
+    {
+      "name": "nhóm 4",
+      "img": "1111111111",
+      "price": "1111111111",
+      "desc": "11111111111",
+      "id": "qXFWViG"
+    },
+    {
+      "id": "Wn1OSsy",
+      "name": "nhóm 1",
+      "img": "aaaaaaaaaaaaaaaa",
+      "price": "1111111111",
+      "desc": "aaaaaaaaaaaaaaaaa"
+    }
+  ],
+  "categories": []
+}
